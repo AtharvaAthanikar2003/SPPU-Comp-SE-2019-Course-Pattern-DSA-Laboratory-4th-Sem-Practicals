@@ -1,5 +1,6 @@
 /*
-
+Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell
+data structure with modularity of programming language.
 */
 
 import java.util.*;                    //DSA 6th Program on Heap Sort using java language//
